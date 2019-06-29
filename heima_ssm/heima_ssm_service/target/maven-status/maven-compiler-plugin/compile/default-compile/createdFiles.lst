@@ -1,0 +1,16 @@
+com\itheima\ssm\service\impl\OrdersServiceImpl.class
+com\itheima\ssm\service\impl\MemberServiceImpl.class
+com\itheima\ssm\service\impl\TravellerServiceImpl.class
+com\itheima\ssm\service\IUserService.class
+com\itheima\ssm\service\IPermissionService.class
+com\itheima\ssm\service\impl\SysLogServiceImpl.class
+com\itheima\ssm\service\impl\PermissionServiceImpl.class
+com\itheima\ssm\service\IProductService.class
+com\itheima\ssm\service\impl\UserServiceImpl.class
+com\itheima\ssm\service\ITravellerService.class
+com\itheima\ssm\service\ISysLogService.class
+com\itheima\ssm\service\IMemberService.class
+com\itheima\ssm\service\impl\RoleServiceImpl.class
+com\itheima\ssm\service\IOrdersService.class
+com\itheima\ssm\service\IRoleService.class
+com\itheima\ssm\service\impl\ProductServiceImpl.class
